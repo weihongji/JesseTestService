@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+JesseTestService
+</name>
+</assembly>
+<members>
+<member name="M:JesseTestService.ApiDeclare.CloseHandle(System.Int32)">
+    (dest As Any, Source As Any, ByVal numBytes As Long)
+
+</member>
+</members>
+</doc>

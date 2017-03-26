@@ -1,0 +1,6 @@
+obj/
+/*.suo
+*.InstallLog
+*.InstallState
+*.pdb
+*.vshost.exe
